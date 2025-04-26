@@ -26,7 +26,7 @@
     "url": "https://github.com/EkaterinaDuzh/dom_2/issues"
   },
   "homepage": "https://github.com/EkaterinaDuzh/dom_2#readme",
-  "description": "",
+  "description": "![CI](https://github.com/EkaterinaDuzh/dom_2/actions/workflows/web.yml/badge.svg)",
   "dependencies": {
     "@babel/cli": "^7.27.0",
     "@babel/core": "^7.26.10",
